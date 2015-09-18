@@ -1,6 +1,6 @@
 # spinny #
 
-[![Build Status](https://secure.travis-ci.org/nikabh/spinny.png)](http://travis-ci.org/niklabh/spinny)
+[![Build Status](https://travis-ci.org/niklabh/spinny.svg)](http://travis-ci.org/niklabh/spinny)
 
 Simple spinner for command line long processing animation
 
