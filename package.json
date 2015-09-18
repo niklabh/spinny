@@ -1,5 +1,5 @@
 {
-  "name": "spinny",
+  "name": "node-spinny",
   "version": "0.0.1",
   "description": "Simple node command line spinning animation",
   "main": "index.js",
