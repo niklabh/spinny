@@ -6,12 +6,12 @@ Simple spinner for command line long processing animation
 
 
 ```bash
-$ npm install spinner
+$ npm install node-spinny
 ```
 
 ```js
-var Spinny = require('spinny')
-var spinny = new Spinny();
+var Spinny = require('node-spinny')
+var spinny = new Spinny(options);
 
 spinny.start();
 
